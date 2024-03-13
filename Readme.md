@@ -34,4 +34,4 @@
 
 • [YUKKI BOT](https://github.com/YukkiBot/YukkiMultiSpamBot):SUPPORTER
 
-• [DEADLY BOT](https://github.com/sameerpanthi/DEADLY-OP-BOT):SUPPORTER
+• [DEADLY BOT](https://github.com/Amrit2009mou/DEADLY-OP-BOT):SUPPORTER
